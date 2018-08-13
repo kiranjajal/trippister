@@ -1,0 +1,2 @@
+class homeData():
+    print("HII")
